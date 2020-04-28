@@ -28,4 +28,4 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-# Made with <span style="color: #e25555;">&#9829;</span> By <a href="https://www.linkedin.com/in/theeseus/">Theseus</a> </span> Forked from  <a href="https://github.com/himanshusharma89/Flutter-Blog-App">Flutter Blog </a>
+# Made with <span style="color: #e25555;">&#9829;</span> Visit Us <a href="https://hiveai.tech">Online</a> </span> Buit from  <a href="https://github.com/himanshusharma89/Flutter-Blog-App">Source </a>
